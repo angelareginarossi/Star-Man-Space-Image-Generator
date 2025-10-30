@@ -6,3 +6,4 @@ I used the astroNN's dataset "Galaxy10 SDSS" as it is lighter than the "Galaxy10
 - OpenJourney
 I fine-tuned them using LoRa or my PC would have exploded.
 They both worked very well and produced nice results:
+![Results](./assets/output.png)
